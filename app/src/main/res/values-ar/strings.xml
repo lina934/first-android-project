@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الشاشة</string>
+    <string name="message">الرسال</string>
+    <string name="editTextPhone">الهاتف</string>
+    <string name="nexttxt">التالي</string>
+    <string name="close">اغلاق</string>
+    <string name="backtxt">الرجوع</string>
+
+</resources>
